@@ -1,4 +1,4 @@
-# API-RESTful-JSON-Exemploa - Informações do Projeto
+# API-RESTful-JSON-Exemplos
 
 Exemplo simples de API RESTFUL JSON utilizando o Jersey RESTful Web Services framework https://jersey.java.net/
 
